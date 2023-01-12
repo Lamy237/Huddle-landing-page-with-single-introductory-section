@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![solution-screenshot](https://user-images.githubusercontent.com/89041260/211865534-9aa885c7-723f-45cc-bb93-c3dc3ca50c85.png)
+
 
 ### Links
 
-- Solution URL: [Huddle landing page with single introductory section](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-0yXRQgFzzw)
-- Live Site URL: [hulapa](https://hulapa.netlify.app/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
