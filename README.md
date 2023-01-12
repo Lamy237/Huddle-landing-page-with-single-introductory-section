@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-
+![solution-screenshot](https://user-images.githubusercontent.com/89041260/212053172-82e2118b-38ed-42ae-b2c8-ed70ee6ee8b7.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [hulapa](https://hulapa.netlify.app/)
 
 ## My process
 
