@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Huddle landing page with single introductory section](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-Y2ai2v-1en)
 - Live Site URL: [hulapa](https://hulapa.netlify.app/)
 
 ## My process
